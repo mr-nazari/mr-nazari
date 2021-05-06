@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ali Nazari (Mr. A.N)
+- 👀 I’m interested in Python/Django,C#,C++
+- 🌱 I’m currently learning Django, AI/ML
