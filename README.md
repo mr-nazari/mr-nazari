@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mr-nazari.mr-nazari)
 
-<img align="right" alt="GIF" src="https://github.com/mr-nazari/mr-nazari/blob/main/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/mr-nazari/mr-nazari/blob/main/coding.gif?raw=true" width="380" height="280" />
 
 
 **Talking about Personal Stuffs:**
