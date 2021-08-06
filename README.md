@@ -8,7 +8,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/mr-nazari/mr-nazari/blob/main/coding.gif?raw=true" width="380" height="280" />
 
-
 **Talking about Personal Stuffs:**
 
 - 👀 I’m interested in Python/Django, JS, C#, C++;
@@ -16,10 +15,11 @@
 - 🚀 I’m currently learning Data Structures and Algorithms and Django and JS/Backend;
 - 💬 Ask me about anything, I am happy to help;
 
+Also see [GitHub Gist](https://gist.github.com/mr-nazari)
+
 </br>
 
 📈 **My GitHub Stats:**
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-nazari&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
